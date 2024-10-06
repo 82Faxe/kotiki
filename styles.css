@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background-color: #ffffff;
+    height: 100vh;
+}
+h1{
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    color: #212121;
+    text-align: center;
+}
